@@ -2,7 +2,7 @@
   <Layout>
     <div class="all">
       <div class="top">老有帮</div>
-      <div class="second">二手市场</div>
+      <div class="second">二手市场  点击进入</div>
       <div class="buttons">
         <button>
           <img src="@/assets/png/1.1.png">助听
